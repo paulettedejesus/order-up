@@ -1,0 +1,24 @@
+body {
+    font-family: lucida sans;
+    background-color: bisque;
+    color: #232023;
+    font-style: oblique;
+}
+
+
+.box {
+    background-color: blanchedalmond;
+    color: #232023;
+    border: 3px dashed #a1aeb1;
+    margin-bottom: 16px;
+    padding: 16px; 
+    width: 50%;
+    border-radius: 12px;
+    text-align: center;
+}  
+
+.box h2 {
+margin-top: 0;
+color: #232023;
+}
+
